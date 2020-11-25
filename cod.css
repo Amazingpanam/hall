@@ -1,0 +1,60 @@
+/*CSS DOCUMENT*/
+nav{
+background-color: white;
+text-align: center;
+height: 50px;
+padding: 25px;
+color: black;
+}
+nav ul li {
+    display: inline-block;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    float: left;
+    padding: 12px;
+}
+
+.first{
+    width: 100;
+    box-sizing: border-box;
+    background-color:white;
+    height: 1200px;
+    text-align: center;
+    padding: 30PX;
+    font-size: 40PX;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mid{
+    background-color:red;
+    height: 500px;
+    background-image: url("two.jpeg");
+    font-size: 30PX;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+}
+.bb{
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    margin-left: 75px;
+    background-image: url("three.jpeg");
+}
+h2{
+    padding: 70px;
+}
+.cc{
+    background-color: black;
+    height: 400px;
+    width: 500px;
+    background-image: url("two.jpeg");
+}
+
+footer{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
